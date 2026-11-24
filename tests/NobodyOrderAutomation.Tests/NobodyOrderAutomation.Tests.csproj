@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\src\NobodyOrderAutomation\ShipAllBatchProcessor.cs" Link="ShipAllBatchProcessor.cs" />
+    <Compile Include="..\..\src\NobodyOrderAutomation\ShipAllButtonLayout.cs" Link="ShipAllButtonLayout.cs" />
+    <Compile Include="..\..\src\NobodyOrderAutomation\ShipmentCommitter.cs" Link="ShipmentCommitter.cs" />
+  </ItemGroup>
+</Project>
