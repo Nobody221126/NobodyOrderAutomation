@@ -1,6 +1,6 @@
 # Nobody Order Automation
 
-Nobody Order Automation is an open-source quality-of-life mod for
+Nobody Order Automation is a source-available quality-of-life mod for
 **Nobody - The Turnaround**. It adds a native-looking **Ship All** button to the
 Warehouse so a large order queue can be handled with one click.
 
@@ -87,12 +87,14 @@ removed. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full checklist.
 
 ## Source, license, and third parties
 
-The original code and documentation in this repository are available under the
-[MIT License](LICENSE). You may inspect, use, modify, and redistribute them under
-that license.
+The source is public so users can inspect and audit the implementation. Official
+releases may be used for personal, non-commercial purposes. Redistribution,
+re-uploading, monetization, and public distribution of modified versions require
+prior written permission from Nobody221126. See the
+[Source-Available License](LICENSE) for the complete terms.
 
 BepInEx, the game, Unity, and their assets are not included and are not covered
-by this project's MIT License. See
+by this project's license. See
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for details.
 
 ## Development transparency
@@ -114,5 +116,5 @@ their respective owners.
 This repository and its release archive contain no game executable, game asset,
 game assembly, BepInEx binary, or generated interop assembly. Users must obtain
 the game and required runtime separately and comply with the terms that apply to
-them. The software is provided as-is, without warranty, as stated in the MIT
-License.
+them. The software is provided as-is, without warranty, as stated in the
+Source-Available License.

@@ -1,9 +1,10 @@
 # Third-party notices
 
-Nobody Order Automation is an unofficial community project. The MIT License in
-this repository applies only to the original source code and documentation in
-this project. It does not grant rights to third-party software, game content,
-names, trademarks, or other intellectual property.
+Nobody Order Automation is an unofficial community project. The project's
+Source-Available License applies only to the original source code and
+documentation controlled by Nobody221126. It does not grant rights to
+third-party software, game content, names, trademarks, or other intellectual
+property.
 
 ## BepInEx
 

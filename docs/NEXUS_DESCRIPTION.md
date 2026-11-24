@@ -1,7 +1,7 @@
 # Nobody Order Automation
 
-An open-source quality-of-life mod that adds a native-looking **Ship All** button
-to the Warehouse in *Nobody - The Turnaround*.
+A source-available quality-of-life mod that adds a native-looking **Ship All**
+button to the Warehouse in *Nobody - The Turnaround*.
 
 ## What it does
 
@@ -34,9 +34,13 @@ Back up your save before installing mods. Game updates can break IL2CPP mods.
 The source code is public at:
 <https://github.com/Nobody221126/NobodyOrderAutomation>
 
-The mod's original code and documentation are licensed under the MIT License.
-The archive includes the license and third-party notices. It does not include
-game files, BepInEx binaries, or generated interop assemblies.
+The source is public for security review, auditing, and transparency. Official
+releases may be used for personal, non-commercial purposes. Re-uploading,
+redistribution, monetization, and public release of modified versions require
+prior written permission from Nobody221126.
+
+The archive includes the Source-Available License and third-party notices. It
+does not include game files, BepInEx binaries, or generated interop assemblies.
 
 ## Development and AI disclosure
 

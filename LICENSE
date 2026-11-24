@@ -1,21 +1,61 @@
-MIT License
+Nobody Order Automation Source-Available License 1.0
 
-Copyright (c) 2026 Nobody221126
+Copyright (c) 2026 Nobody221126. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Personal-use permission
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted to download and use an official, unmodified release of
+Nobody Order Automation solely for personal, non-commercial use with a
+legitimately obtained copy of Nobody - The Turnaround.
+
+2. Source inspection
+
+The source code is made publicly available for security review, auditing,
+education, and transparency. You may read the source and make private local
+modifications solely for your own personal, non-commercial use.
+
+3. Restrictions
+
+Without prior written permission from Nobody221126, you may not:
+
+- redistribute, re-upload, mirror, republish, sublicense, or share the software,
+  its source code, compiled binaries, or substantial portions of either;
+- sell, rent, monetize, paywall, bundle commercially, or otherwise use the
+  software for direct or indirect commercial benefit;
+- distribute modified versions, derivative works, conversions, ports, forks,
+  or parallel versions;
+- remove or alter copyright, license, attribution, or third-party notices; or
+- use the author's name or project identity to imply endorsement or official
+  affiliation.
+
+GitHub's platform terms may permit users to view and fork a public repository
+within GitHub. Such platform functionality does not grant permission to
+redistribute, publish, monetize, or release the software or derivative works.
+
+4. Separate permission
+
+Requests for redistribution, modification releases, commercial use, forks,
+ports, or other uses outside this license must receive prior written permission
+from Nobody221126.
+
+5. Third-party rights
+
+This license applies only to the original Nobody Order Automation code and
+documentation controlled by Nobody221126. It grants no rights to Nobody - The
+Turnaround, Unity, BepInEx, or any other third-party software, names,
+trademarks, assets, or intellectual property.
+
+6. Termination
+
+Any permission granted by this license terminates automatically if you violate
+its terms. Upon termination, you must stop using and delete all copies covered
+by this license, except where applicable law provides otherwise.
+
+7. Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR ITS USE.

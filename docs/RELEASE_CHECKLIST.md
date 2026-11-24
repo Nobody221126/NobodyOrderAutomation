@@ -3,9 +3,9 @@
 - [ ] Unit tests report 11/11 passed.
 - [ ] Release build completes with zero warnings and zero errors.
 - [ ] Repository scan contains no saves, logs, credentials, absolute local paths, game assemblies, generated interop assemblies, or BepInEx binaries.
-- [ ] GitHub identifies the root `LICENSE` as MIT.
+- [ ] GitHub displays the root Source-Available License and current user-facing pages use source-available terminology.
 - [ ] Third-party notices still match the dependencies actually used by the mod.
-- [ ] Nexus ZIP contains only the plugin DLL, README, changelog, MIT license, and third-party notices.
+- [ ] Nexus ZIP contains only the plugin DLL, README, changelog, Source-Available License, and third-party notices.
 - [ ] Install the ZIP contents into the clean test copy.
 - [ ] Confirm the plugin loads automatically.
 - [ ] Confirm Ship All is visible beside ESC QUIT.

@@ -1,6 +1,8 @@
 # Contributing
 
-Bug reports and focused improvements are welcome.
+Bug reports and focused improvement proposals are welcome. Code contributions
+are accepted only by prior arrangement with Nobody221126; opening a pull request
+does not grant permission to publish or redistribute a modified version.
 
 ## Before opening an issue
 
@@ -39,6 +41,7 @@ Do not commit or submit:
 - DRM bypasses, protection circumvention, multiplayer cheats, or unrelated
   executable injection features.
 
-Keep changes within this mod's single-player quality-of-life scope. By
-contributing code or documentation, you agree that your contribution is
-provided under this project's MIT License.
+Keep proposals within this mod's single-player quality-of-life scope. Before
+submitting code or documentation, contact Nobody221126 to agree on contribution
+and licensing terms. The public repository is source-available and does not
+grant general permission to distribute forks or derivative releases.
