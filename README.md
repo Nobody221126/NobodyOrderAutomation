@@ -95,6 +95,15 @@ BepInEx, the game, Unity, and their assets are not included and are not covered
 by this project's MIT License. See
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for details.
 
+## Development transparency
+
+OpenAI Codex was used extensively for reverse-engineering assistance, code
+generation, documentation, and iterative debugging. AI-generated code and text
+are present in the released mod and repository. The human author defined the
+requirements, supplied runtime observations, performed repeated in-game tests,
+reviewed the results, and approved the release. The complete source, tests, and
+build scripts are public so users can inspect the implementation.
+
 ## Legal notice
 
 This is an unofficial community mod. It is not affiliated with, endorsed by, or

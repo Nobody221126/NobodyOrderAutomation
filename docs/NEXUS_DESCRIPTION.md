@@ -38,6 +38,16 @@ The mod's original code and documentation are licensed under the MIT License.
 The archive includes the license and third-party notices. It does not include
 game files, BepInEx binaries, or generated interop assemblies.
 
+## Development and AI disclosure
+
+OpenAI Codex was used extensively for reverse-engineering assistance, code
+generation, documentation, and iterative debugging. AI-generated code and page
+text are present in this release. The human author defined the requirements,
+provided runtime observations, performed repeated in-game tests, reviewed the
+results, and approved the release. The full source code, tests, build scripts,
+license, and development history are publicly available at the GitHub link
+above.
+
 ## Unofficial project notice
 
 This is an unofficial community mod and is not affiliated with, endorsed by, or
